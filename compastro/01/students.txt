@@ -1,0 +1,6 @@
+Name		Branch
+Asif		Astrophysics
+Bharath		Astrophysics
+Chinmai		Solid State Physics
+Tatsat		Earth System Science
+Jayant		Optical Engineering
