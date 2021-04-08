@@ -2,9 +2,11 @@ name: astroph
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
   - astropy
-  - scipy
-  - pandas
   - bokeh
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
